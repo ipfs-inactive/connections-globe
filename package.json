@@ -1,0 +1,20 @@
+{
+  "name": "connections-globe",
+  "version": "1.0.0",
+  "description": "An interactive globe to view all your IPFS peers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipfs/connections-globe.git"
+  },
+  "keywords": [],
+  "author": "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ipfs/connections-globe/issues"
+  },
+  "homepage": "https://github.com/ipfs/connections-globe#readme"
+}
